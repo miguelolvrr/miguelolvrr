@@ -1,54 +1,48 @@
-# Miguel Ângelo
+# Olá, eu sou o Miguel Ângelo 👋
 
-### Artificial Intelligence Student | Data Analytics | Future Data Engineer
+**Estudante de Inteligência Artificial · Back-end & Dados**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Database-orange?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-GitHub-black?logo=github&logoColor=white" />
-</p>
-
-## 👨‍💻 About Me
-
-I'm an Artificial Intelligence undergraduate student from Brazil, interested in building intelligent solutions through data, programming, and technology.
-
-I currently work with data visualization, performance indicators, and analytical platforms, while developing my technical skills in programming and data engineering.
-
-- 🎓 Artificial Intelligence student
-- 📊 Data visualization and business intelligence
-- 🐍 Currently learning Python
-- 🗄️ Studying databases and SQL
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🌎 International academic experience in China
-
-## 🛠️ Tech Stack
-
-| Area | Technologies |
-|---|---|
-| Programming | Python |
-| Databases | SQL |
-| Data Visualization | Power BI |
-| Development Tools | Git, GitHub, VS Code |
-| Interests | AI, Data Analytics, Data Engineering |
-
-## 🎯 Currently Learning
-
-- Python programming
-- Database management
-- Data analysis and visualization
-- Data pipelines and ETL
-- Artificial Intelligence
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=miguelolvrr&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelolvrr&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+Construo soluções com dados e IA, com foco em back-end: APIs, automação e aplicações que resolvem problemas reais. Aprendendo na prática, projeto a projeto.
 
 ---
 
-<p align="center">
-  <i>"Building my future through data, technology, and continuous learning."</i>
-</p>
+## 🚀 O que estou construindo
+
+- **AgroÁgua**: plataforma de irrigação de precisão, desenvolvida do zero por mim e apresentada em pitch na faculdade.
+- **Portfólio**: site pessoal hospedado no GitHub Pages, com meus projetos e contatos. [miguelolvrr.github.io](https://miguelolvrr.github.io)
+- **SaaS/PaaS** *(em desenvolvimento)*: um produto digital próprio, em fase de construção.
+
+---
+
+## 🧰 Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+> Ajuste os badges para as tecnologias que você realmente usa. Lista de badges: https://shields.io
+
+**Foco de estudo:** Back-end · Dados · Inteligência Artificial
+
+---
+
+## 🎓 Formação
+
+- Tecnólogo em Inteligência Artificial, cursando (2º período)
+- AI Innovation Research and Learning Camp, **Shanghai Jiao Tong University (SJTU)**, 2026 (certificado emitido pela universidade, programa "Piauí para o Mundo")
+
+---
+
+## 💼 Experiência
+
+- Jovem Aprendiz, setor da Qualidade, **Ceneged**
+
+---
+
+## 📫 Contato
+
+- 🌐 Portfólio: [miguelolvrr.github.io](https://miguelolvrr.github.io)
+- 💼 LinkedIn: [Miguel Ângelo](https://www.linkedin.com/in/miguel-ângelo-8021302aa)
+- ✉️ E-mail: *seu-email-aqui*
