@@ -9,9 +9,7 @@ Construo soluções com dados e IA, com foco em back-end: APIs, automação e ap
 ## 🚀 O que estou construindo
 
 - **AgroÁgua**: plataforma de irrigação de precisão, desenvolvida do zero por mim e apresentada em pitch na faculdade.
-- **Portfólio**: site pessoal hospedado no GitHub Pages, com meus projetos e contatos. [miguelolvrr.github.io](https://miguelolvrr.github.io)
-- **SaaS/PaaS** *(em desenvolvimento)*: um produto digital próprio, em fase de construção.
-
+- **Portfólio**: site pessoal hospedado no GitHub Pages, com meus projetos e contatos. 
 ---
 
 ## 🧰 Stack
@@ -22,7 +20,6 @@ Construo soluções com dados e IA, com foco em back-end: APIs, automação e ap
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-> Ajuste os badges para as tecnologias que você realmente usa. Lista de badges: https://shields.io
 
 **Foco de estudo:** Back-end · Dados · Inteligência Artificial
 
@@ -45,4 +42,4 @@ Construo soluções com dados e IA, com foco em back-end: APIs, automação e ap
 
 - 🌐 Portfólio: [miguelolvrr.github.io](https://miguelolvrr.github.io)
 - 💼 LinkedIn: [Miguel Ângelo](https://www.linkedin.com/in/miguel-ângelo-8021302aa)
-- ✉️ E-mail: *seu-email-aqui*
+- ✉️ E-mail: miguelpalm312@gmail.com
